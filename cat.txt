@@ -1,7 +1,7 @@
-This is a poem.
+This is a poem about my cat and Kevin.
 
   There is my cat
-sitting on a car
+sitting in a car
 
 She has
 eyes
@@ -10,3 +10,4 @@ mouth
 four legs
 
 I like my cat.
+I like Kevin.
