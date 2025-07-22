@@ -8,6 +8,5 @@ eyes
 nose
 mouth
 four legs
-two tails
 
 I like my cat.
