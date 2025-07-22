@@ -7,5 +7,6 @@ She has
 eyes
 nose
 mouth
+four legs
 
 I like my cat.
